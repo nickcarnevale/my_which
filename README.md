@@ -1,12 +1,3 @@
-# CSE109 - Systems Software - Spring 2023
-
-# Programming Assignment 1 - my_which
-
-**Due Date: 2/19/2023 EOD**
-
-## Assignment
-
-For this assignment you will write your own version of the the `which` program called `my_which`. This program will search through your PATH variable to find the directory or directories in which a target program is found. For example:
 
 ```
 $ my_which gcc
